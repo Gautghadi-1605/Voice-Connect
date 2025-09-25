@@ -1,4 +1,3 @@
-# Voice-Connect
 # Voice Connect
 
 **Voice Connect** is a multilingual communication application supporting 22 Indian languages, including Tamil, Telugu, Hindi, English, and Malayalam. It enables real-time cross-language voice and text interaction, breaking linguistic barriers across India.
